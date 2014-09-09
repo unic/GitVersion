@@ -67,6 +67,7 @@
     <Compile Include="..\Tests\Helpers\DirectoryHelper.cs">
       <Link>Helpers\DirectoryHelper.cs</Link>
     </Compile>
+    <Compile Include="AssemblyInfoPatchingTests.cs" />
     <Compile Include="CommitCountingRepoFixture.cs" />
     <Compile Include="ExecCmdLineArgumentTest.cs" />
     <Compile Include="GitFlow\BaseGitFlowRepositoryFixture.cs" />
